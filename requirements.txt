@@ -1,0 +1,10 @@
+pandas
+tqdm
+boto3
+python-dotenv
+pytest
+fastapi
+uvicorn
+python-multipart
+pillow
+ultralytics
